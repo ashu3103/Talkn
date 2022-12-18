@@ -29,13 +29,6 @@ We plan to build a couple of versions of ChildFly, one for the people to report 
     > cd client
     > npm start
 
-# Blockchain- Metamask Account Setup
-
-Set up Metamask account  by adding chrome extension from the following link:
-https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en 
-Download and set up Ganache from the following address:
-https://trufflesuite.com/ganache/ 
-
 Open Ganache, select QuickStart, once the accounts are displayed click on the key icon of the first account and copy the private key of that account.
 
 Now sign into Metamask and add Ganache as a test network in place of Ethereum Mainnet.
