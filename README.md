@@ -4,7 +4,7 @@
 Education
 
 # About the Project
-We plan to build a couple of versions of ChildFly, one for the people to report and the other for the administration to monitor the reports and distribute ethers. The entire interactive front-end of the website will be built using ReactJs, while the backend will be in Node Js, MongoDB. Ganache and Metamask will be used to generate and manage test ethers and Solidity for writing code responsible for managing transfer of ethers.
+We plan to build a couple of versions of Talkn, one for the people to report and the other for the administration to monitor the reports and distribute ethers. The entire interactive front-end of the website will be built using ReactJs, while the backend will be in Node Js, MongoDB. Ganache and Metamask will be used to generate and manage test ethers and Solidity for writing code responsible for managing transfer of ethers.
 
 # Tech Stack - MERN, Blockchain- Solidity, Ganache
 - Front-end - ReactJS
